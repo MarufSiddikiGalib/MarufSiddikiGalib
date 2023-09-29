@@ -1,4 +1,4 @@
-[MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2017/07/programming-languages-to-learn-for-wordpress-featured-image.png)
+[![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2017/07/programming-languages-to-learn-for-wordpress-featured-image.png)]
 
 <h1 align="center">Hi 👋, I'm Galib</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
