@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **marufsiddikigalib@gmail.com**
 
-- ⚡ Fun fact **play mobile legends**
+- ⚡ Fun fact **: play mobile legends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
