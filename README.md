@@ -1,6 +1,6 @@
 ![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2017/07/programming-languages-to-learn-for-wordpress-featured-image.png)
 
-<h2 align="center">Hi 👋, I'm Galib<br>A passionate developer from Bangladesh</h2>
+<h2 align="center">Hi 👋, I'm Galib<br>A passionate developer from Bangladesh </h2>
 
 - 🌱 I’m currently learning *Full stack web development and.net**
 
