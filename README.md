@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋, I'm Galib<br> A passionate developer from BANGLADESH. Studing in AIUB  </h2>
 
-- 🌱 I’m currently learning *Full stack web development and .net**
+- 🌱 I’m currently learning **Full stack web development and .net**
 
 - 📫 How to reach me :**marufsiddikigalib@gmail.com**
 
