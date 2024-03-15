@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full stack web development and .net**
 
-- 📫 How to reach me :**marufsiddikigalib@gmail.com**
+- 📫 How to reach me **: marufsiddikigalib@gmail.com**
 
 - ⚡ Fun fact **: Lets play Mobile Legends**
 
