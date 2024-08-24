@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **: marufsiddikigalib@gmail.com**
 
-- ⚡ Fun fact **: Lets play Mobile Legends**
+- ⚡ Fun fact ****
 
 ###
 
