@@ -47,7 +47,7 @@ Currently Learning: Docker, Testing, CI/CD
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarufSiddikiGalib&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=MarufSiddikiGalib&theme=radical&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=MarufSiddikiGalib&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarufSiddikiGalib&layout=compact&theme=radical&hide_border=true" height="160" />
 </div>
 
