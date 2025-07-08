@@ -4,7 +4,7 @@
 -->
 <!-- Heading -->
 <h1 align="center">Hi 👋, I'm <span style="color:#4db8ff;">Galib</span></h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | AIUB Student | Bangladesh</h3>
+<h3 align="center">🚀 Full Stack Developer | B.Sc. in CSE at AIUB | Bangladesh</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+code.;Building+cool+stuff+on+the+web.;Learning+%26+growing+every+day."/>
@@ -12,13 +12,13 @@
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 ```yaml
 Name: Maruf Siddiki Galib
-Education: B.Sc. in CSE at AIUB
+Education: B.Sc. in CSE at American International University-Bangladesh
 Location: Dhaka, Bangladesh 🇧🇩
-Interest: Web Dev | System Design | Open Source | Problem Solving
-Currently Learning: Advanced MERN, Docker, Testing, CI/CD
+Interest: Web Dev | System Design | Problem Solving
+Currently Learning: Docker, Testing, CI/CD
 ```
 
 ---
@@ -35,8 +35,8 @@ Currently Learning: Advanced MERN, Docker, Testing, CI/CD
 
 | Project | Tech Used | Description |
 |--------|-----------|-------------|
-| 🚇 **Metro Rail Management System** | MERN, MongoDB, Express.js | Full-stack admin + user portal with live ticket/reservation logic |
-| 🛍️ **E-Commerce Platform** | React, Node.js, REST API | Product listing, cart, checkout with CORS-safe mock API |
+| 🚇 **Metro Rail Management System** | MERN, MongoDB, Express.js | A web application for booking tickets for the metro rail system. |
+| 🛍️ **E-Commerce Platform** | React, Node.js, REST API | A web application for online shoping platform .Product listing, cart, checkout and all |
 | 📊 **Weather App** | JS, CSS, OpenWeather API | Live weather info by city search |
 
 👉 *[More on my GitHub Repositories →](https://github.com/MarufSiddikiGalib?tab=repositories)*
