@@ -1,5 +1,74 @@
 ![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2017/07/programming-languages-to-learn-for-wordpress-featured-image.png)
 
+<h1 align="center">Hi 👋, I'm Galib</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer from Bangladesh | Student at AIUB</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Tech+Lover+%F0%9F%92%BB;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+- Full Stack Web Development using **MERN Stack**
+- Building projects with **MongoDB, Express.js, React.js, Node.js**
+- Exploring **TypeScript, Docker**, and **System Design**
+
+### 📫 Reach Me
+- **Email:** marufsiddikigalib@gmail.com
+- **LinkedIn:** [Maruf Siddiki Galib](https://www.linkedin.com/in/maruf-siddiki-galib-7360092b5/)
+- **Instagram:** [@marufsiddikigalib](https://www.instagram.com/marufsiddikigalib/)
+- **Facebook:** [Facebook Profile](https://www.facebook.com/marufsiddiki.galib.5/)
+
+---
+
+### 🛠️ Tech Stack
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,tailwind,nextjs,python,java,cpp,cs,bootstrap,dotnet,mysql" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarufSiddikiGalib&show_icons=true&theme=dracula&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=MarufSiddikiGalib&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarufSiddikiGalib&layout=compact&theme=dracula&hide_border=true" height="160" />
+</div>
+
+---
+
+### 🧠 LeetCode Profile
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/marufsiddikigalib?font=Dancing_Script&theme=dark" height="200" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/maruf-siddiki-galib-7360092b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:marufsiddikigalib@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/marufsiddikigalib/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/marufsiddiki.galib.5/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarufSiddikiGalib/MarufSiddikiGalib/output/snake.svg" alt="snake animation" />
+</p>
+![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2017/07/programming-languages-to-learn-for-wordpress-featured-image.png)
+
 <h2 align="center">Hi 👋, I'm Galib<br> A passionate developer from BANGLADESH. Studing in AIUB  </h2>
 
 - 🌱 I’m currently learning **Full stack web development using MERN Stack**
